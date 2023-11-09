@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm Cudamii</h1>
 <h3 align="center">A passionate python developer!!</h3>
 
+<div align="center">
+  <a href="">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake">
+  </a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
